@@ -1,0 +1,10 @@
+xmonad.symlink/*
+!xmonad.symlink/xmonad.hs
+git/gitconfig.symlink
+
+# Ignore everything except atom config files
+atom.symlink/*
+!atom.symlink/config.cson
+!atom.symlink/styles.less
+!atom.symlink/keymap.cson
+!atom.symlink/init.coffee

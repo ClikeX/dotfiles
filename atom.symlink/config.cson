@@ -1,0 +1,24 @@
+"*":
+  "atom-language-rust":
+    colors: {}
+  core:
+    autoHideMenuBar: true
+    themes: [
+      "one-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    fontSize: 15
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "12738b4b-614d-0368-0175-9f362d9adff9"
+  "git-status": {}
+  linter: {}
+  "linter-govet": {}
+  "todo-manager": {}
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false

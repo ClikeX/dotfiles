@@ -1,0 +1,11 @@
+export LANG=en_US.utf8
+export LANGUAGE=C
+export LC_ADDRESS=C
+export LC_IDENTIFICATION=C
+export LC_MEASUREMENT=C
+export LC_MONETARY=C
+export LC_NAME=C
+export LC_NUMERIC=C
+export LC_PAPER=nl_NL.utf8
+export LC_TELEPHONE=C
+export LC_TIME=C
