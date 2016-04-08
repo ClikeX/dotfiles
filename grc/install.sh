@@ -3,5 +3,5 @@
 if test ! $(which grc)
 then
   echo "  Installing grc (generic colorizer) for you."
-  sudo apt-get install grc
+  sudo apt-get install -y grc
 fi
