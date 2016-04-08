@@ -1,5 +1,3 @@
-
-
 #!/bin/sh
 
 if test ! $(which rustc)
