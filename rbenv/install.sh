@@ -5,7 +5,6 @@ then
   echo "  Installing rbenv for you."
   git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
   (cd ~/.rbenv && src/configure && make -C src)
-  echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
 fi
 
 if test ! $(which ruby-build)
