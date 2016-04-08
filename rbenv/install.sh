@@ -4,7 +4,6 @@ if test ! $(which rbenv)
 then
   echo "  Installing rbenv for you."
   git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
-  (cd ~/.rbenv && src/configure && make -C src)
 fi
 
 if test ! $(which ruby-build)
