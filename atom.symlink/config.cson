@@ -1,12 +1,30 @@
 "*":
   "atom-language-rust":
     colors: {}
+  "atom-material-ui":
+    colors:
+      abaseColor:
+        red: 214
+        green: 73
+        blue: 55
+        alpha: 1
+      accentColor:
+        red: 249
+        green: 249
+        blue: 249
+        alpha: 1
+    fonts: {}
+    tabs:
+      compactTabs: true
+    treeView:
+      compactList: true
+    ui: {}
   core:
     autoHideMenuBar: true
     disabledPackages: []
     themes: [
-      "outlander-ui"
-      "outlander-syntax"
+      "atom-material-ui"
+      "atom-material-syntax-dark"
     ]
   editor:
     fontSize: 15
