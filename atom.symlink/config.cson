@@ -3,9 +3,10 @@
     colors: {}
   core:
     autoHideMenuBar: true
+    disabledPackages: []
     themes: [
-      "one-dark-ui"
-      "atom-dark-syntax"
+      "outlander-ui"
+      "outlander-syntax"
     ]
   editor:
     fontSize: 15
