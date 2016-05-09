@@ -10,6 +10,9 @@ export PATH="$HOME/.local/bin:/usr/local/bin:/usr/local/sbin:$PATH"
 ### Added for rbenv to work
 export PATH="$HOME/.rbenv/bin:$PATH"
 
+### Added for pyenv to work
+export PATH="$PYENV_ROOT/bin:$PATH"
+
 ### Make GHC 7.8.4 from Stack work
 export PATH="$HOME/.stack/programs/x86_64-linux/ghc-7.10.2/bin:$PATH"
 
