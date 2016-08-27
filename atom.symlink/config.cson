@@ -21,14 +21,10 @@
     ui: {}
   core:
     autoHideMenuBar: true
-    disabledPackages: [
-      "vim-mode"    ]
     themes: [
       "atom-material-ui"
       "atom-material-syntax-dark"
     ]
-  crystal:
-    compilerColorOutput: true
   editor:
     invisibles: {}
     showIndentGuide: true
@@ -38,8 +34,6 @@
   "git-status": {}
   linter: {}
   "linter-govet": {}
-  "linter-puppet-lint":
-    oldVersion: false
   "todo-manager": {}
   welcome:
     showOnStartup: false
