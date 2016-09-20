@@ -18,3 +18,6 @@ export PATH="$HOME/.stack/programs/x86_64-linux/ghc-7.10.2/bin:$PATH"
 
 ### Added by the Heroku Toolbelt
 export PATH="/usr/local/heroku/bin:$PATH"
+
+### Added for Composer commands
+export PATH="$HOME/.composer/vendor/bin:$PATH"
